@@ -1,6 +1,6 @@
 # node-bbs-front-end
 
-This template should help get you started developing with Vue 3 in Vite.
+本项目使用vue.js 3构建
 
 ## Recommended IDE Setup
 
